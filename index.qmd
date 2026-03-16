@@ -30,10 +30,8 @@ about:
       target: _blank
 ---
 
-<link rel="me" href="https://mastodon.social/@hegang">
 
-
-:::{#hero-heading}
+::: {#hero-heading .justify}
 
 Hello, I’m Andreas Laffert Tamayo. I am a sociologist from the University of Chile and hold an M.A. in Sociology from the Pontifical Catholic University of Chile.
 

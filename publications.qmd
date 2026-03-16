@@ -6,6 +6,7 @@ description-meta: "Information, PDFs, and social metrics of papers"
 title-block-banner: false
 css: /custom.css
 ---
+::: {.justify}
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
@@ -44,3 +45,5 @@ Urzúa, T., Canales, R., Laffert, A. & Castillo, J. C. (2025). [Documento Metodo
 Urzúa, T., Iturra, J., Canales, R., Laffert, A. & Castillo, J.C. (2025). [Visualizador Longitudinal de Cohesión Social en Chile (Release)](https://ocs-coes.shinyapps.io/ocs-viselsoc/). Zenodo. https://doi.org/10.5281/zenodo.17408346
 
 Iturra-Sanhueza, J., Cortés, G., Urzúa, T., Laffert, A. & Castillo, J. C. (2025). [OCSVIS-LA: Visualizador de Cohesión Social para América Latina (release)](https://ocs-coes.shinyapps.io/visualizador-la/). Zenodo. https://doi.org/10.5281/zenodo.17405945
+
+:::

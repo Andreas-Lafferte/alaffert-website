@@ -357,3 +357,7 @@ hr {
   border-top: 1px solid var(--border-soft);
   opacity: 1;
 }
+
+.justify {
+  text-align: justify;
+}

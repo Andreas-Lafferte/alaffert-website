@@ -3,6 +3,7 @@ title: "Community Engagement"
 title-block-banner: false
 toc: false
 ---
+::::: {.justify}
 
 <!--This is my personal clarity, please delete or replace with your own clarity-->
 {{< include /files/includes/_msclarity.qmd >}}
@@ -41,5 +42,6 @@ In 2019, during the October social uprising in Chile, I took part in the Núcleo
 :::
 
 :::
+::::: 
 
 
