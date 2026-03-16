@@ -3,91 +3,64 @@ project:
   output-dir: docs
 
 # Meta
-description-meta: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition. Keywords: Energy systems analysis, energy and climate policy, clean energy transition, decarbonization, and carbon neutrality"
-author-meta: "Gang He"
+description-meta: "Andreas Laffert – Sociologist and M.A. in Sociology"
+author-meta: "Andreas Laffert"
 
 website:
-  title: "Dr. Gang He"
-  image: "/files/gang-he-profile.jpeg"
-  description: "Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition."
+  title: "Andreas Laffert"
+  image: "/files/andreas_laffert.jpeg"
+  description: "Andreas Laffert – Sociologist and M.A. in Sociology"
  
   navbar:
-    background: light
+    background: dark
 
     left:
 #      - text: Home
 #        href: index.qmd
-      - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event
-          - text: Now
-            href: now.qmd       
-          - text: Contact
-            href: contact.qmd             
+#      - text: About
+#        menu:
+#          - text: News
+#            href: posts.qmd#category=news
+#          - text: Events
+#            href: posts.qmd#category=event
+#          - text: Now
+#            href: now.qmd       
+#          - text: Contact
+#            href: contact.qmd    
       - text: Research
         menu:
-          - text: List of Publications
+          - text: Projects
+            href: projects.qmd
+          - text: Publications
             href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Commentary
-            href: posts.qmd#category=commentary
-          - text: Recognition
-            href: posts.qmd#category=recognition  
-          - text: Grants
-            href: https://deeppolicylab.github.io/projects.html
+          - text: Presentations
+            href: presentations.qmd  
             target: _blank                                  
       - text: Teaching
         href: teaching.qmd
-      - text: Outreach
-        menu:
-        - text: Policy Engagement
-          href: posts.qmd#category=outreach 
-        - text: Policy Citations
-          href: notable-policy-citations.qmd          
-        - text: Presentations
-          href: posts.qmd#category=presentation       
-        - text: Testimony
-          href: posts.qmd#category=testimony
-        - text: Media
-          href: media.qmd        
-        - text: Notes
-          href: notes.qmd          
-      - text: Deep Policy Lab
-        href: https://deeppolicylab.github.io/
-        target: _blank
-      - text: 中文
-        href: cn.qmd
+      - text: Community Engagement
+        href: community.qmd 
 
     right: 
       - text: "**CV**"
-        href: files/Gang-He-CV.pdf
+        href: files/cv-2-column.pdf
         target: _blank 
       - icon: github
-        href: https://github.com/drganghe
+        href: https://github.com/Andreas-Lafferte
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app/profile/hegang.bsky.social
-        target: _blank
-#      - icon: twitter-x 
-#        href: https://twitter.com/DrGangHe
-#        target: _blank        
-      - icon: rss
-        href: posts.xml
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=9zzyCGAAAAAJ&hl=es&oi=sra
         target: _blank
   
   page-navigation: true
   
   page-footer: 
-    center: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
-    # left: "[Gang He](http://drganghe.github.io) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    # right:  
-    #   - icon: github
-    #     href: https://github.com/drganghe/drganghe.github.io
-    #     target: _blank
+    center: "[Andreas Laffert](https://andreas-lafferte.github.io) &copy; <script>document.write(new Date().getFullYear())</script>"
+    # left: "[Andreas Laffert](https://andreas-lafferte.github.io); <script>document.write(new Date().getFullYear())</script>" 
+    right:  
+       - icon: github
+         href: https://github.com/Andreas-Lafferte
+         target: _blank
     #   - text: "{{< fa brands bluesky >}}" 
     #     href: https://bsky.app/profile/hegang.bsky.social
     #     target: _blank
@@ -103,7 +76,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/drganghe.github.io
+  repo-url: https://github.com/Andreas-Lafferte/andreas-lafferte.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -111,11 +84,8 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io"
-  
-  google-analytics:
-    tracking-id: "G-G4DYZHP5J7"  # Please delete or replace with your own tracking ID
-    anonymize-ip: true 
+  site-url: "https://andreas-lafferte.github.io"
+
 
 bibliography: references.bib
 

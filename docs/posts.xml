@@ -5,21 +5,21 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Dr. Gang He</title>
-<link>https://drganghe.github.io/posts.html</link>
-<atom:link href="https://drganghe.github.io/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Dr. Gang He is an energy scholar, researcher, and teacher. He studies and teaches energy systems, energy and climate policy, and clean energy transition.</description>
+<title>Andreas Laffert</title>
+<link>https://andreas-lafferte.github.io/posts.html</link>
+<atom:link href="https://andreas-lafferte.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>Andreas Laffert – Sociologist and M.A. in Sociology</description>
 <image>
-<url>https://drganghe.github.io/files/gang-he-profile.jpeg</url>
-<title>Dr. Gang He</title>
-<link>https://drganghe.github.io/posts.html</link>
+<url>https://andreas-lafferte.github.io/files/andreas_laffert.jpeg</url>
+<title>Andreas Laffert</title>
+<link>https://andreas-lafferte.github.io/posts.html</link>
 </image>
-<generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 20 Jan 2026 05:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Tue, 20 Jan 2026 03:00:00 GMT</lastBuildDate>
 <item>
   <title>Renewable integration and AI demand reshaped power grids in 2025</title>
   <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/</link>
+  <link>https://andreas-lafferte.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/</link>
   <description><![CDATA[ 
 
 
@@ -43,7 +43,7 @@ DOI: <a href="https://doi.org/10.1038/s44359-025-00136-z">10.1038/s44359-025-001
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://andreas-lafferte.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" class="img-fluid figure-img"></p>
 <figcaption>A substation in Pittsburgh, California; Photo by Gang He</figcaption>
 </figure>
 </div>
@@ -152,23 +152,23 @@ Power Grids in 2025.”</span> <em>Nature Reviews Clean Technology</em> 2
 (1): 13–14. <a href="https://doi.org/10.1038/s44359-025-00136-z">https://doi.org/10.1038/s44359-025-00136-z</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/</guid>
-  <pubDate>Tue, 20 Jan 2026 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://andreas-lafferte.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/</guid>
+  <pubDate>Tue, 20 Jan 2026 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2026-01-nrct-grid-decarbonization-year-in-review/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>New Grant to Study the Drivers and Impacts of Domestic Clean Energy Manufacturing</title>
-  <link>https://drganghe.github.io/</link>
+  <link>https://andreas-lafferte.github.io/</link>
   <description>Gang He, Kaifang Luo, Michael Davidson, Ahmad Lashkaripour, Ilaria Mazzocco, and Minghao Qiu are awarded a $750,000 new Alfred P. Sloan Foundation grant to study the drivers and impacts of domestic clean manufacturing interventions, resulting from an Open Call on Energy System Interactions in the United States.</description>
   <category>news</category>
-  <guid>https://drganghe.github.io/</guid>
-  <pubDate>Wed, 17 Dec 2025 05:00:00 GMT</pubDate>
+  <guid>https://andreas-lafferte.github.io/</guid>
+  <pubDate>Wed, 17 Dec 2025 03:00:00 GMT</pubDate>
   <media:content url="https://deeppolicylab.github.io/files/images/funders/sloan-logo.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>17 Lex Society Feature Story: Research That Powers Change</title>
   <dc:creator>Meghan Goff</dc:creator>
-  <link>https://drganghe.github.io/posts/2025-12-baruch-17-lex-society-feature-story/</link>
+  <link>https://andreas-lafferte.github.io/posts/2025-12-baruch-17-lex-society-feature-story/</link>
   <description><![CDATA[ 
 
 
@@ -178,7 +178,7 @@ Power Grids in 2025.”</span> <em>Nature Reviews Clean Technology</em> 2
 <h2 class="anchored" data-anchor-id="feature-story">Feature Story</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="../../files/images/17-Lex-Society-Newsletter-Winter2025-Feature.webp" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://drganghe.github.io/files/images/17-Lex-Society-Newsletter-Winter2025-Feature.webp" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+<p><a href="../../files/images/17-Lex-Society-Newsletter-Winter2025-Feature.webp" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="https://andreas-lafferte.github.io/files/images/17-Lex-Society-Newsletter-Winter2025-Feature.webp" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
 </figure>
 </div>
 <center>
@@ -196,14 +196,14 @@ Note: Click the image to see the full view
 
  ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/posts/2025-12-baruch-17-lex-society-feature-story/</guid>
-  <pubDate>Tue, 16 Dec 2025 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2025-12-baruch-17-lex-society-feature-story/featured.webp" medium="image" type="image/webp"/>
+  <guid>https://andreas-lafferte.github.io/posts/2025-12-baruch-17-lex-society-feature-story/</guid>
+  <pubDate>Tue, 16 Dec 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2025-12-baruch-17-lex-society-feature-story/featured.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>播客｜到底还要不要合作了？清洁能源全球供应链的收益与前景</title>
   <dc:creator>TanXiaoFengSheng </dc:creator>
-  <link>https://drganghe.github.io/posts/2025-10-podcast-global-clean-energy-supply-chains/</link>
+  <link>https://andreas-lafferte.github.io/posts/2025-10-podcast-global-clean-energy-supply-chains/</link>
   <description><![CDATA[ 
 
 
@@ -336,7 +336,7 @@ Note: Click the image to see the full view
 <h2 class="anchored" data-anchor-id="相关文章">相关文章</h2>
 <div id="listing-related-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXIlMkNpbmZvZ3JhcGhpYw==" data-listing-date-sort="1759896000000" data-listing-file-modified-sort="1766082586772" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
+<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXIlMkNpbmZvZ3JhcGhpYw==" data-listing-date-sort="1759892400000" data-listing-file-modified-sort="1773069740798" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="243">
 <div class="thumbnail"><a href="../../posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" class="thumbnail-image">
@@ -361,7 +361,7 @@ Minghao Qiu, Gang He, Peter Marcotullio
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Y29tbWVudGFyeQ==" data-listing-date-sort="1701752400000" data-listing-file-modified-sort="1714754169037" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1134">
+<div class="quarto-post image-right" data-index="1" data-categories="Y29tbWVudGFyeQ==" data-listing-date-sort="1701745200000" data-listing-file-modified-sort="1773069740753" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="6" data-listing-word-count-sort="1134">
 <div class="thumbnail"><a href="../../posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2023-12-just-resilient-sustainable-clean-energy-supply-chains/cop28.png" class="thumbnail-image">
@@ -386,7 +386,7 @@ Gang He, Daniel M Kammen, Muhammad Husni Mubarok, Shoon So Oo
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666756800000" data-listing-file-modified-sort="1768599416910" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3623">
+<div class="quarto-post image-right" data-index="2" data-categories="cGFwZXIlMkNwb3N0ZXIlMkNzbGlkZXM=" data-listing-date-sort="1666753200000" data-listing-file-modified-sort="1773069740729" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="19" data-listing-word-count-sort="3623">
 <div class="thumbnail"><a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/featured.jpg" class="thumbnail-image">
@@ -397,7 +397,7 @@ Gang He, Daniel M Kammen, Muhammad Husni Mubarok, Shoon So Oo
 <a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external">Quantifying the cost savings of global solar photovoltaic supply chains</a>
 </h3>
 <div class="delink listing-description"><a href="../../posts/2022-10-nature-cost-savings-of-global-solar-pv-value-chains/index.html" class="no-external">
-<p>Globalized supply chain has saved solar installers in the U.S., Germany, and China $67B 2008-2020, and solar prices will be 20-30% higher in 2030 if…</p>
+<p>Globalized supply chains have saved solar installers in the U.S., Germany, and China $67B from 2008–2020, and solar prices will be 20–30% higher in…</p>
 </a></div>
 </div>
 <div class="metadata">
@@ -433,16 +433,16 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>news</category>
   <category>podcast</category>
-  <guid>https://drganghe.github.io/posts/2025-10-podcast-global-clean-energy-supply-chains/</guid>
-  <pubDate>Wed, 29 Oct 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2025-10-podcast-global-clean-energy-supply-chains/featured.png" medium="image" type="image/png" height="58" width="144"/>
+  <guid>https://andreas-lafferte.github.io/posts/2025-10-podcast-global-clean-energy-supply-chains/</guid>
+  <pubDate>Wed, 29 Oct 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2025-10-podcast-global-clean-energy-supply-chains/featured.png" medium="image" type="image/png" height="58" width="144"/>
 </item>
 <item>
   <title>Imported solar photovoltaics contributed to health and climate benefits in the United States</title>
   <dc:creator>Minghao Qiu</dc:creator>
   <dc:creator>Gang He</dc:creator>
   <dc:creator>Peter Marcotullio</dc:creator>
-  <link>https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/</link>
+  <link>https://andreas-lafferte.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/</link>
   <description><![CDATA[ 
 
 
@@ -466,7 +466,7 @@ DOI: <a href="https://doi.org/10.1016/j.oneear.2025.101467">10.1016/j.oneear.202
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" class="img-fluid figure-img"></p>
+<p><img src="https://andreas-lafferte.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" class="img-fluid figure-img"></p>
 <figcaption>Monetized climate and health benefits of importing 1 kW solar panels</figcaption>
 </figure>
 </div>
@@ -475,7 +475,7 @@ DOI: <a href="https://doi.org/10.1016/j.oneear.2025.101467">10.1016/j.oneear.202
 <p>Global supply chains have played a central role in driving down solar photovoltaic (PV) costs and accelerating deployment globally, but their broader societal benefits are underexplored. Here we quantify the climate, air quality, and health impacts of imported solar panels in the United States between 2014 and 2022. We find that 1 kW of imported solar capacity yields an average of $180 in annualized climate and health benefits, offsetting nearly half the PV module cost in 2020. This imported capacity displaced fossil generation by 305 TWh, avoided 178 million tons of CO<sub>2</sub>, and prevented an estimated 595 premature deaths between 2014 and 2022. While these advantages are unevenly distributed across regions and demographic groups, residents in non-importing states also benefited from them. These findings provide critical evidence for policy debates on clean energy trade, showing that imported solar capacity delivers substantial public health and climate gains beyond direct cost savings.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/figure3.png" class="img-fluid figure-img"></p>
+<p><img src="https://andreas-lafferte.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/figure3.png" class="img-fluid figure-img"></p>
 <figcaption>Avoided emissions and PM2.5-related health benefits associated with electricity generation from imported solar panels</figcaption>
 </figure>
 </div>
@@ -497,7 +497,7 @@ DOI: <a href="https://doi.org/10.1016/j.oneear.2025.101467">10.1016/j.oneear.202
 <h2 class="anchored" data-anchor-id="infographic">Infographic</h2>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/Infographic.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://andreas-lafferte.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/Infographic.jpg" class="img-fluid figure-img"></p>
 <figcaption>Credit: Jason M. Epstein and Marxe Communications team</figcaption>
 </figure>
 </div>
@@ -535,23 +535,23 @@ United States.”</span> <em>One Earth</em> 8 (11): 101467. <a href="https://doi
 </div></div></section></div> ]]></description>
   <category>paper</category>
   <category>infographic</category>
-  <guid>https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/</guid>
-  <pubDate>Wed, 08 Oct 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" medium="image" type="image/png" height="79" width="144"/>
+  <guid>https://andreas-lafferte.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/</guid>
+  <pubDate>Wed, 08 Oct 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2025-10-oneearth-imported-solar-pv-health-climate-benefits-in-the-united-states/featured.png" medium="image" type="image/png" height="79" width="144"/>
 </item>
 <item>
   <title>Climate Week NYC 2025: The Role of Nuclear Energy in Decarbonization and Powering the AI Era</title>
-  <link>https://drganghe.github.io/</link>
+  <link>https://andreas-lafferte.github.io/</link>
   <description>Join us to discuss the role of nuclear energy in decarbonization and powering the AI era during Climate Week NYC 2025.</description>
   <category>event</category>
-  <guid>https://drganghe.github.io/</guid>
-  <pubDate>Tue, 23 Sep 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/images/Climate-Week-Webinare-2025.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://andreas-lafferte.github.io/</guid>
+  <pubDate>Tue, 23 Sep 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/files/images/Climate-Week-Webinare-2025.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Production Gap Report 2025</title>
   <dc:creator>SEI, Climate Analytics, IISD</dc:creator>
-  <link>https://drganghe.github.io/posts/2025-09-production-gap-report-2025/</link>
+  <link>https://andreas-lafferte.github.io/posts/2025-09-production-gap-report-2025/</link>
   <description><![CDATA[ 
 
 
@@ -559,7 +559,7 @@ United States.”</span> <em>One Earth</em> 8 (11): 101467. <a href="https://doi
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://productiongap.org/2025report/"><img src="https://drganghe.github.io/posts/2025-09-production-gap-report-2025/featured.png" class="img-fluid figure-img"></a></p>
+<p><a href="https://productiongap.org/2025report/"><img src="https://andreas-lafferte.github.io/posts/2025-09-production-gap-report-2025/featured.png" class="img-fluid figure-img"></a></p>
 <figcaption>Production Gap Report 2025</figcaption>
 </figure>
 </div>
@@ -585,20 +585,20 @@ United States.”</span> <em>One Earth</em> 8 (11): 101467. <a href="https://doi
 </blockquote>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2025-09-production-gap-report-2025/Figure-ES.2-and-2.2.webp" class="img-fluid figure-img"></p>
+<p><img src="https://andreas-lafferte.github.io/posts/2025-09-production-gap-report-2025/Figure-ES.2-and-2.2.webp" class="img-fluid figure-img"></p>
 <figcaption>The increases in fossil fuel production estimated under the government plans and projections pathways would lead to global production levels in 2030 that are 500%, 31%, and 92% higher for coal, oil, and gas, respectively, than the median 1.5ºC-con­sistent pathway. These plans and projections also collectively exceed the fossil fuel production implied by countries’ own climate mitigation pledges by 35% in 2030 and 141% in 2050.</figcaption>
 </figure>
 </div>
 </section>
 <section id="contributors" class="level2">
 <h2 class="anchored" data-anchor-id="contributors">Contributors</h2>
-<p><a href="https://productiongap.org/2025report/"><img src="https://drganghe.github.io/posts/2025-09-production-gap-report-2025/pgr2025-contributors.webp" class="img-fluid"></a></p>
+<p><a href="https://productiongap.org/2025report/"><img src="https://andreas-lafferte.github.io/posts/2025-09-production-gap-report-2025/pgr2025-contributors.webp" class="img-fluid"></a></p>
 </section>
 <section id="related-posts" class="level2">
 <h2 class="anchored" data-anchor-id="related-posts">Related Posts</h2>
 <div id="listing-related-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ291dHJlYWNo" data-listing-date-sort="1699419600000" data-listing-file-modified-sort="1772207945695" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="440">
+<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ291dHJlYWNo" data-listing-date-sort="1699412400000" data-listing-file-modified-sort="1773069740751" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="440">
 <div class="thumbnail"><a href="../../posts/2023-11-unep-production-gap-report-2023/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2023-11-unep-production-gap-report-2023/featured.jpg" class="thumbnail-image">
@@ -645,14 +645,14 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>news</category>
   <category>outreach</category>
-  <guid>https://drganghe.github.io/posts/2025-09-production-gap-report-2025/</guid>
-  <pubDate>Mon, 22 Sep 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2025-09-production-gap-report-2025/featured.png" medium="image" type="image/png" height="105" width="144"/>
+  <guid>https://andreas-lafferte.github.io/posts/2025-09-production-gap-report-2025/</guid>
+  <pubDate>Mon, 22 Sep 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2025-09-production-gap-report-2025/featured.png" medium="image" type="image/png" height="105" width="144"/>
 </item>
 <item>
   <title>Included in World’s Top 2% Scientists List 2025</title>
   <dc:creator>Stanford/Elsevier </dc:creator>
-  <link>https://drganghe.github.io/posts/stanford-elsevier-top-2percent-scientists/</link>
+  <link>https://andreas-lafferte.github.io/posts/stanford-elsevier-top-2percent-scientists/</link>
   <description><![CDATA[ 
 
 
@@ -669,14 +669,14 @@ https://quarto.org/docs/authoring/includes.html
 <p>This is the second time I’ve been included in this list. I want to take a moment to thank my family, current and former students, visiting scholars, mentors, collaborators, funders, editors, reviewers, and colleagues for their invaluable support.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=single_year"><img src="https://drganghe.github.io/files/awards/Top2PercentScientists2025.webp" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+<p><a href="https://topscinet.com/scientist_profile/He,%20Gang/2004/?stype=single_year"><img src="https://andreas-lafferte.github.io/files/awards/Top2PercentScientists2025.webp" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
 </figure>
 </div>
 <section id="related-posts" class="level2">
 <h2 class="anchored" data-anchor-id="related-posts">Related Posts</h2>
 <div id="listing-related-posts" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ3JlY29nbml0aW9uJTJDdmlkZW8=" data-listing-date-sort="1726545600000" data-listing-file-modified-sort="1762864749991" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
+<div class="quarto-post image-right" data-index="0" data-categories="bmV3cyUyQ3JlY29nbml0aW9uJTJDdmlkZW8=" data-listing-date-sort="1726542000000" data-listing-file-modified-sort="1773069740760" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
 <div class="thumbnail"><a href="../../posts/2024-09-16-stanford-elsevier-top-2percent-scientists/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../files/awards/Top2Percent.png" class="thumbnail-image">
@@ -713,19 +713,19 @@ Stanford/Elsevier
  ]]></description>
   <category>news</category>
   <category>recognition</category>
-  <guid>https://drganghe.github.io/posts/stanford-elsevier-top-2percent-scientists/</guid>
-  <pubDate>Fri, 19 Sep 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/awards/Top2Percent.png" medium="image" type="image/png" height="81" width="144"/>
+  <guid>https://andreas-lafferte.github.io/posts/stanford-elsevier-top-2percent-scientists/</guid>
+  <pubDate>Fri, 19 Sep 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/files/awards/Top2Percent.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Selected as Public Intellectuals Program Fellow</title>
-  <link>https://drganghe.github.io/</link>
+  <link>https://andreas-lafferte.github.io/</link>
   <description>Gang He was selected as a Ninth Round Public Intellectuals Program Fellow of the National Committee on US-China Relations.</description>
   <category>news</category>
   <category>recognition</category>
-  <guid>https://drganghe.github.io/</guid>
+  <guid>https://andreas-lafferte.github.io/</guid>
   <pubDate>Wed, 13 Aug 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/images/pip-fellow-2025.png" medium="image" type="image/png" height="75" width="144"/>
+  <media:content url="https://andreas-lafferte.github.io/files/images/pip-fellow-2025.png" medium="image" type="image/png" height="75" width="144"/>
 </item>
 <item>
   <title>Can China break the ‘cost curse’ of nuclear power?</title>
@@ -733,7 +733,7 @@ Stanford/Elsevier
   <dc:creator>Gang He</dc:creator>
   <dc:creator>Minghao Qiu</dc:creator>
   <dc:creator>Daniel M. Kammen</dc:creator>
-  <link>https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/</link>
+  <link>https://andreas-lafferte.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/</link>
   <description><![CDATA[ 
 
 
@@ -771,7 +771,7 @@ https://badge.dimensions.ai/
 <figure class="figure">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.nature.com/articles/d41586-025-02341-z"><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/cover-page.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
+<p><a href="https://www.nature.com/articles/d41586-025-02341-z"><img src="https://andreas-lafferte.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/cover-page.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
 </figure>
 </div>
 <figcaption>Cover page of the paper</figcaption>
@@ -798,13 +798,13 @@ DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-023
 <p>Escalating construction expenses threaten to derail global progress on atomic energy. China offers lessons on how to rein in costs. Over the past two decades, China has been the main country to substantially and consistently expand its nuclear fleet. Here we compiled and analyzed a dataset on the construction costs of nuclear power plants in China. We find that the construction costs of Chinese nuclear power plants have been declining since 2000, and the cost of building a nuclear power plant has been halved. China’s deliberate, staged effort to build domestic supply chains and standardized reactor designs has been key to this success. Coordinated regulatory structures and long-term policy commitments have also been important. As countries rush to expand nuclear capacities, they must combine affordability with safety, scalability, investor confidence and public trust. Without this, nuclear power will remain an expensive bet the world can ill afford.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" class="img-fluid figure-img"></p>
+<p><img src="https://andreas-lafferte.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" class="img-fluid figure-img"></p>
 <figcaption>Figure 1: Overnight construction costs of commercial nuclear power units in the US, France, and China. Overnight construction cost refers to the capital cost of building a nuclear power plant, excluding financing charges incurred during the construction period.<sup>1</sup></figcaption>
 </figure>
 </div>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig2.png" class="img-fluid figure-img" style="width:80.0%"></p>
+<p><img src="https://andreas-lafferte.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig2.png" class="img-fluid figure-img" style="width:80.0%"></p>
 <figcaption>Figure 2: The effect of indigenization (domestic content rate) on unit overnight construction costs of Chinese operating nuclear power plants. Each dot represents a nuclear power plant (including multiple units), as costs and domestic content rates are typically reported at this level. The dashed line represents the fitted linear regression of domestic content rate against unit overnight construction costs.</figcaption>
 </figure>
 </div>
@@ -840,7 +840,7 @@ DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-023
 <figure class="figure">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry"><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/the-economist-energy-bills-chart.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+<p><a href="https://www.economist.com/business/2025/09/04/why-nuclear-is-now-a-booming-industry"><img src="https://andreas-lafferte.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/the-economist-energy-bills-chart.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
 </figure>
 </div>
 <figcaption>Source: The Economist, September 4, 2025, Why nuclear is now a booming industry.</figcaption>
@@ -850,7 +850,7 @@ DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-023
 <figure class="figure">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html"><img src="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/NYT-nuclear-costs-chart.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
+<p><a href="https://www.nytimes.com/interactive/2025/10/22/climate/china-us-nuclear-energy-race.html"><img src="https://andreas-lafferte.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/NYT-nuclear-costs-chart.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:80.0%"></a></p>
 </figure>
 </div>
 <figcaption>Source: The New York Times, October 23, 2025, How China Raced Ahead of the U.S. on Nuclear Power.</figcaption>
@@ -859,7 +859,7 @@ DOI: <a href="https://doi.org/10.1038/d41586-025-02341-z">10.1038/d41586-025-023
 </section>
 <section id="linkedin" class="level2">
 <h2 class="anchored" data-anchor-id="linkedin">LinkedIn</h2>
-<iframe class="linkedin-post" src="https://www.linkedin.com/embed/feed/update/urn:li:activity:7355643824590782465" height="1062" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+{{&lt; share-post https://www.linkedin.com/feed/update/urn:li:activity:7355643824590782465 &gt;}}
 <!--
 ```{=html}
 <style>
@@ -917,29 +917,29 @@ Liu, Shangwei, Gang He, Minghao Qiu, and Daniel M. Kammen. 2025.
 Power?”</span> <em>Nature</em> 643 (July): 1186–88. <a href="https://doi.org/10.1038/d41586-025-02341-z">https://doi.org/10.1038/d41586-025-02341-z</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/</guid>
+  <guid>https://andreas-lafferte.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/</guid>
   <pubDate>Mon, 28 Jul 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" medium="image" type="image/png" height="81" width="144"/>
+  <media:content url="https://andreas-lafferte.github.io/posts/2025-07-nature-breaking-the-cost-curse-of-nuclear-power/fig1.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 <item>
   <title>Macro-Energy Systems Speaker Series: Supply Chains in Energy Systems</title>
-  <link>https://drganghe.github.io/</link>
+  <link>https://andreas-lafferte.github.io/</link>
   <description>Join us to discuss how macro-energy systems analysis can better capture critical supply chain risks.</description>
   <category>event</category>
-  <guid>https://drganghe.github.io/</guid>
+  <guid>https://andreas-lafferte.github.io/</guid>
   <pubDate>Tue, 01 Jul 2025 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/flyers/20250701mes-supply-chains-flyer-small.png" medium="image" type="image/png" height="106" width="144"/>
+  <media:content url="https://andreas-lafferte.github.io/files/flyers/20250701mes-supply-chains-flyer-small.png" medium="image" type="image/png" height="106" width="144"/>
 </item>
 <item>
   <title>Third Annual Conference on Climate Research, Teaching, and Collaboration</title>
   <dc:creator>Baruch Climate Conference</dc:creator>
-  <link>https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/</link>
+  <link>https://andreas-lafferte.github.io/posts/2025-03-06-third-baruch-climate-conference/</link>
   <description><![CDATA[ 
 
 
 
 
-<p><a href="https://www.baruch.cuny.edu/climateconference/"><img src="https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/featured.webp" class="img-fluid"></a></p>
+<p><a href="https://www.baruch.cuny.edu/climateconference/"><img src="https://andreas-lafferte.github.io/posts/2025-03-06-third-baruch-climate-conference/featured.webp" class="img-fluid"></a></p>
 <section id="third-annual-conference-on-climate-research-teaching-and-collaboration" class="level2">
 <h2 class="anchored" data-anchor-id="third-annual-conference-on-climate-research-teaching-and-collaboration">Third Annual Conference on Climate Research, Teaching, and Collaboration</h2>
 <p>Thursday, Mar.&nbsp;6 10 am–4:30 pm Information and Technology Building Rackow Conference Center, Room 750</p>
@@ -1045,14 +1045,14 @@ https://quarto.org/docs/authoring/includes.html
   <category>news</category>
   <category>event</category>
   <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/</guid>
-  <pubDate>Thu, 06 Mar 2025 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2025-03-06-third-baruch-climate-conference/featured.webp" medium="image" type="image/webp"/>
+  <guid>https://andreas-lafferte.github.io/posts/2025-03-06-third-baruch-climate-conference/</guid>
+  <pubDate>Thu, 06 Mar 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2025-03-06-third-baruch-climate-conference/featured.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Joining the Doctoral Faculty of the Earth and Environmental Sciences Program at the Graduate Center</title>
   <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/</link>
+  <link>https://andreas-lafferte.github.io/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/</link>
   <description><![CDATA[ 
 
 
@@ -1060,7 +1060,7 @@ https://quarto.org/docs/authoring/includes.html
 
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://www.gc.cuny.edu/people/gang-he"><img src="https://drganghe.github.io/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/featured.webp" class="img-fluid figure-img"></a></p>
+<p><a href="https://www.gc.cuny.edu/people/gang-he"><img src="https://andreas-lafferte.github.io/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/featured.webp" class="img-fluid figure-img"></a></p>
 <figcaption>EES Program</figcaption>
 </figure>
 </div>
@@ -1099,14 +1099,14 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/</guid>
-  <pubDate>Wed, 22 Jan 2025 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/featured.webp" medium="image" type="image/webp"/>
+  <guid>https://andreas-lafferte.github.io/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/</guid>
+  <pubDate>Wed, 22 Jan 2025 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2025-01-joining-doctoral-faculty-ees-graduate-center/featured.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>Participating APPAM 2024</title>
   <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/</link>
+  <link>https://andreas-lafferte.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/</link>
   <description><![CDATA[ 
 
 
@@ -1149,7 +1149,7 @@ https://quarto.org/docs/authoring/includes.html
 <h2 class="anchored" data-anchor-id="relevant-work">Relevant work</h2>
 <div id="listing-appam2024" class="quarto-listing quarto-listing-container-default">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXIlMkNzbGlkZXM=" data-listing-date-sort="1690171200000" data-listing-file-modified-sort="1772203260098" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
+<div class="quarto-post image-right" data-index="0" data-categories="cGFwZXIlMkNzbGlkZXM=" data-listing-date-sort="1690171200000" data-listing-file-modified-sort="1773069740745" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
 <div class="thumbnail"><a href="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/index.html" class="no-external">
 
 <img loading="lazy" data-src="../../posts/2023-07-nenergy-climate-change-impacts-supply-demand-match/featured.png" class="thumbnail-image">
@@ -1196,9 +1196,9 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>event</category>
   <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/</guid>
-  <pubDate>Thu, 21 Nov 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/featured.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://andreas-lafferte.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/</guid>
+  <pubDate>Thu, 21 Nov 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2024-11-appam-climate-change-impacts-and-responses-assessment-politics-and-policy/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Fewer than 15% of coal power plant workers in China can easily shift to green jobs by 2060</title>
@@ -1211,7 +1211,7 @@ https://quarto.org/docs/authoring/includes.html
   <dc:creator>Ying Liu</dc:creator>
   <dc:creator>Jianmin Ma</dc:creator>
   <dc:creator>Shu Tao</dc:creator>
-  <link>https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/</link>
+  <link>https://andreas-lafferte.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/</link>
   <description><![CDATA[ 
 
 
@@ -1238,7 +1238,7 @@ DOI: <a href="https://doi.org/10.1016/j.oneear.2024.10.006">10.1016/j.oneear.202
 <p>Phasing out coal is essential for climate mitigation but can result in job losses. Although growing literature has reported green job opportunities (e.g., solar technicians) as a potential solution to the displacement of coal sector workers, the extent to which green jobs are easily accessible, regarding co-location and skill requirements, remains unclear. Here, we explore this issue in the context of China’s coal phaseout toward the 2060 carbon neutrality target. Using a coal power plant retirement model of 3,765 coal power units, we find that coal power plant workers must travel long distances (178–242 km) to reach a green job site. When further considering job skill qualifications, in total, fewer than 15% of these workers can easily access green jobs. Postponing the coal phaseout might further exacerbate the job transition challenge. Upstream industries of the renewable energy sector (e.g., electrical machinery), which can be located closer to coal power plants and have better job skill matching, can help alleviate the challenging prospect.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/featured.jpg" class="img-fluid figure-img"></p>
+<p><img src="https://andreas-lafferte.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/featured.jpg" class="img-fluid figure-img"></p>
 <figcaption>Spatial relation and skill similarity between coal power plant workers and green jobs</figcaption>
 </figure>
 </div>
@@ -1291,25 +1291,25 @@ Power Plant Workers in China Can Easily Shift to Green Jobs by
 2060.”</span> <em>One Earth</em> 7 (11): 1994–2007. <a href="https://doi.org/10.1016/j.oneear.2024.10.006">https://doi.org/10.1016/j.oneear.2024.10.006</a>.
 </div></div></section></div> ]]></description>
   <category>paper</category>
-  <guid>https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/</guid>
-  <pubDate>Tue, 05 Nov 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/featured.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://andreas-lafferte.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/</guid>
+  <pubDate>Tue, 05 Nov 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2024-11-oneearth-coal-power-workers-shift-green-jobs/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>New Grant: Exploring Energy Burden Among the Older Adults and People with Disabilities in New York City Public Housing Communities</title>
-  <link>https://drganghe.github.io/</link>
+  <link>https://andreas-lafferte.github.io/</link>
   <description>Gang He, Kaifang Luo, Hilary Botein, and Frank Heiland were awarded an SSA grant.</description>
   <category>news</category>
-  <guid>https://drganghe.github.io/</guid>
-  <pubDate>Fri, 01 Nov 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/images/nyc-mid-town.webp" medium="image" type="image/webp"/>
+  <guid>https://andreas-lafferte.github.io/</guid>
+  <pubDate>Fri, 01 Nov 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/files/images/nyc-mid-town.webp" medium="image" type="image/webp"/>
 </item>
 <item>
   <title>China needs to optimise pumped hydro and battery storage mix</title>
   <dc:creator>Liqun Peng</dc:creator>
   <dc:creator>Jiang Lin</dc:creator>
   <dc:creator>Gang He</dc:creator>
-  <link>https://drganghe.github.io/posts/2024-10-china-needs-to-optimise-pumped-hydro-and-battery-storage-mix/</link>
+  <link>https://andreas-lafferte.github.io/posts/2024-10-china-needs-to-optimise-pumped-hydro-and-battery-storage-mix/</link>
   <description><![CDATA[ 
 
 
@@ -1360,14 +1360,14 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>commentary</category>
-  <guid>https://drganghe.github.io/posts/2024-10-china-needs-to-optimise-pumped-hydro-and-battery-storage-mix/</guid>
-  <pubDate>Mon, 28 Oct 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-10-china-needs-to-optimise-pumped-hydro-and-battery-storage-mix/featured.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://andreas-lafferte.github.io/posts/2024-10-china-needs-to-optimise-pumped-hydro-and-battery-storage-mix/</guid>
+  <pubDate>Mon, 28 Oct 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2024-10-china-needs-to-optimise-pumped-hydro-and-battery-storage-mix/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Power Systems Decarbonization: Technology, Policy Responses, and Implications</title>
   <dc:creator>CESE </dc:creator>
-  <link>https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/</link>
+  <link>https://andreas-lafferte.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/</link>
   <description><![CDATA[ 
 
 
@@ -1391,13 +1391,13 @@ https://quarto.org/docs/authoring/includes.html
 </section>
 <section id="flyer" class="level2">
 <h2 class="anchored" data-anchor-id="flyer">Flyer</h2>
-<p><a href="https://cese.pku.edu.cn/images/content/2024-10/20241022124634828698.jpg"><img src="https://drganghe.github.io/files/flyers/20241024PKU.jpg" class="img-fluid" style="width:90.0%"></a></p>
+<p><a href="https://cese.pku.edu.cn/images/content/2024-10/20241022124634828698.jpg"><img src="https://andreas-lafferte.github.io/files/flyers/20241024PKU.jpg" class="img-fluid" style="width:90.0%"></a></p>
 </section>
 <section id="relevant-posts" class="level2">
 <h2 class="anchored" data-anchor-id="relevant-posts">Relevant posts</h2>
 <div id="listing-papers" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-2">
-<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDc2xpZGVzJTJDdmlkZW8lMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1699851600000" data-listing-file-modified-sort="1772207894941" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
+<div class="g-col-1" data-index="0" data-categories="bmV3cyUyQ2V2ZW50JTJDc2xpZGVzJTJDdmlkZW8lMkNwcmVzZW50YXRpb24=" data-listing-date-sort="1699844400000" data-listing-file-modified-sort="1773069740751" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="428">
 <a href="../../posts/2023-11-switch-china-open-model/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1421,7 +1421,7 @@ Nov 13, 2023
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXI=" data-listing-date-sort="1639976400000" data-listing-file-modified-sort="1772208523613" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
+<div class="g-col-1" data-index="1" data-categories="cGFwZXIlMkNwb3N0ZXI=" data-listing-date-sort="1639969200000" data-listing-file-modified-sort="1773069740715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="318">
 <a href="../../posts/2021-12-jcp-power-water-carbon/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1445,7 +1445,7 @@ Dec 20, 2021
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1772202763174" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="859">
+<div class="g-col-1" data-index="2" data-categories="cGFwZXI=" data-listing-date-sort="1589515200000" data-listing-file-modified-sort="1773069740706" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="859">
 <a href="../../posts/2020-05-ncomms-rapid-re-cost/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1469,7 +1469,7 @@ May 15, 2020
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="cGFwZXIlMkNwb3N0ZXI=" data-listing-date-sort="1462680000000" data-listing-file-modified-sort="1772203677192" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
+<div class="g-col-1" data-index="3" data-categories="cGFwZXIlMkNwb3N0ZXI=" data-listing-date-sort="1462676400000" data-listing-file-modified-sort="1773069740698" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="268">
 <a href="../../posts/2016-est-switch-china/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1527,23 +1527,23 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>event</category>
   <category>presentation</category>
-  <guid>https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/</guid>
-  <pubDate>Thu, 24 Oct 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/featured.jpeg" medium="image" type="image/jpeg"/>
+  <guid>https://andreas-lafferte.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/</guid>
+  <pubDate>Thu, 24 Oct 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/posts/2024-10-24-pku-lecture-power-systems-decarbonization/featured.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>Climate Week NYC 2024: Clean Energy Global Supply Chains Panel</title>
-  <link>https://drganghe.github.io/</link>
+  <link>https://andreas-lafferte.github.io/</link>
   <description>Join us to discuss the role of clean energy global supply chains in achieving climate goals during Climate Week NYC 2024.</description>
   <category>event</category>
-  <guid>https://drganghe.github.io/</guid>
-  <pubDate>Thu, 26 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/images/climate-week-logo.png" medium="image" type="image/png" height="65" width="144"/>
+  <guid>https://andreas-lafferte.github.io/</guid>
+  <pubDate>Thu, 26 Sep 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/files/images/climate-week-logo.png" medium="image" type="image/png" height="65" width="144"/>
 </item>
 <item>
   <title>Included in World’s Top 2% Scientists List 2024</title>
   <dc:creator>Stanford/Elsevier </dc:creator>
-  <link>https://drganghe.github.io/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/</link>
+  <link>https://andreas-lafferte.github.io/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/</link>
   <description><![CDATA[ 
 
 
@@ -1553,7 +1553,7 @@ https://quarto.org/docs/authoring/includes.html
 <figure class="figure">
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><a href="https://topresearcherslist.com/Home/Profile/858833"><img src="https://drganghe.github.io/files/awards/top2scientists.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
+<p><a href="https://topresearcherslist.com/Home/Profile/858833"><img src="https://andreas-lafferte.github.io/files/awards/top2scientists.png" class="img-fluid quarto-figure quarto-figure-center figure-img"></a></p>
 </figure>
 </div>
 <figcaption>The database mistakenly references my former employer where I’m still an Affiliated Faculty. I have since joined CUNY-Baruch College.</figcaption>
@@ -1600,9 +1600,9 @@ https://quarto.org/docs/authoring/includes.html
   <category>news</category>
   <category>recognition</category>
   <category>video</category>
-  <guid>https://drganghe.github.io/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/</guid>
-  <pubDate>Tue, 17 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/files/awards/Top2Percent.png" medium="image" type="image/png" height="81" width="144"/>
+  <guid>https://andreas-lafferte.github.io/posts/2024-09-16-stanford-elsevier-top-2percent-scientists/</guid>
+  <pubDate>Tue, 17 Sep 2024 03:00:00 GMT</pubDate>
+  <media:content url="https://andreas-lafferte.github.io/files/awards/Top2Percent.png" medium="image" type="image/png" height="81" width="144"/>
 </item>
 </channel>
 </rss>

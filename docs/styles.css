@@ -1,15 +1,359 @@
-/* css styles */
+/* =========================
+   Color palette
+========================= */
 
-/* Make navbar, content, and footer have the same max-width and center them */
-.navbar .nav-container, 
-.navbar .container-fluid,
-.page-footer {
-    max-width: 1160px; /* Match body width */
-    margin: 0 auto;
-    float: none;
-  }
+:root {
+  --bg-page: #17181c;          /* negro suave / carbón */
+  --bg-navbar: #7b102b;        /* burdeo */
+  --text-color: #f3f3f1;       /* blanco suave */
+  --nav-text-color: #ffffff;
+  --link-color: #e6b6c3;       /* rosado suave legible sobre fondo oscuro */
+  --link-hover: #f3d6de;
+  --selection-bg: #6f2940;
+  --selection-text: #ffffff;
+  --accent-soft: #b86b82;
+  --border-soft: #343840;
+  --dropdown-bg: #22242a;
+  --dropdown-hover: #2d3038;
+  --code-bg: #202228;
+  --code-border: #343840;
+  --input-bg: #23252b;
+  --input-border: #4a4f59;
+}
 
-/* Ensure the background color covers the whole screen */
+/* =========================
+   Global page
+========================= */
+
+html,
+body {
+  background-color: var(--bg-page);
+  color: var(--text-color);
+}
+
+/* Fuerza fondo oscuro en contenedores principales de Quarto */
+body,
+main,
+.content,
+.page-layout-full,
+.page-columns,
+.page-row,
+.quarto-container,
+#quarto-content,
+#quarto-document-content {
+  background-color: var(--bg-page);
+  color: var(--text-color);
+}
+
+/* Texto general */
+p,
+li,
+ul,
+ol,
+dl,
+dt,
+dd,
+figcaption,
+blockquote,
+td,
+th,
+label,
+span,
+div {
+  color: var(--text-color);
+}
+
+/* Encabezados */
+h1, h2, h3, h4, h5, h6 {
+  color: var(--text-color);
+}
+
+/* =========================
+   Links generales
+========================= */
+
+a {
+  color: var(--link-color);
+  text-decoration-color: rgba(230, 182, 195, 0.45);
+}
+
+a:hover,
+a:focus {
+  color: var(--link-hover);
+  text-decoration-color: rgba(243, 214, 222, 0.7);
+}
+
+/* =========================
+   Navbar
+========================= */
+
 .navbar {
   width: 100%;
-}  
+  background-color: var(--bg-navbar) !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* Mismo ancho para navbar y footer */
+.navbar .nav-container,
+.navbar .container-fluid,
+.page-footer {
+  max-width: 1160px;
+  margin: 0 auto;
+  float: none;
+}
+
+/* Solo texto del navbar en blanco */
+.navbar .navbar-brand,
+.navbar .navbar-brand a,
+.navbar .nav-link,
+.navbar .dropdown-toggle,
+.navbar .menu-text,
+.navbar i,
+.navbar svg,
+.navbar a,
+.navbar span {
+  color: var(--nav-text-color) !important;
+}
+
+/* Hover dentro del navbar */
+.navbar .navbar-brand:hover,
+.navbar .navbar-brand:focus,
+.navbar .nav-link:hover,
+.navbar .nav-link:focus,
+.navbar .dropdown-toggle:hover,
+.navbar .dropdown-toggle:focus,
+.navbar a:hover,
+.navbar a:focus {
+  color: #f3dfe6 !important;
+}
+
+/* Botón hamburguesa */
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.25) !important;
+}
+
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 0.18rem rgba(255, 255, 255, 0.18) !important;
+}
+
+/* Ícono hamburguesa en blanco */
+.navbar-toggler-icon {
+  filter: invert(1) brightness(2);
+}
+
+/* =========================
+   Dropdown del navbar
+========================= */
+
+.navbar .dropdown-menu {
+  background-color: var(--dropdown-bg);
+  border: 1px solid var(--border-soft);
+  box-shadow: 0 0.4rem 1rem rgba(0, 0, 0, 0.28);
+}
+
+/* Dentro del dropdown el texto vuelve a claro */
+.navbar .dropdown-menu .dropdown-item,
+.navbar .dropdown-menu .dropdown-item-text,
+.navbar .dropdown-menu a,
+.navbar .dropdown-menu button,
+.navbar .dropdown-menu span {
+  color: var(--text-color) !important;
+}
+
+/* Hover del dropdown */
+.navbar .dropdown-item:hover,
+.navbar .dropdown-item:focus {
+  background-color: var(--dropdown-hover) !important;
+  color: var(--text-color) !important;
+}
+
+/* =========================
+   Search box en navbar
+========================= */
+
+.navbar input[type="search"],
+.navbar input[type="text"],
+.navbar .form-control,
+.navbar .aa-Input {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ffffff !important;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+}
+
+.navbar input[type="search"]::placeholder,
+.navbar input[type="text"]::placeholder,
+.navbar .form-control::placeholder,
+.navbar .aa-Input::placeholder {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.navbar input[type="search"]:focus,
+.navbar input[type="text"]:focus,
+.navbar .form-control:focus,
+.navbar .aa-Input:focus {
+  border-color: #f1d5de !important;
+  box-shadow: 0 0 0 0.18rem rgba(241, 213, 222, 0.25) !important;
+  background-color: rgba(255, 255, 255, 0.14);
+  color: #ffffff !important;
+}
+
+/* Ícono de búsqueda */
+.navbar .aa-SubmitIcon,
+.navbar .aa-SearchIcon {
+  color: #ffffff !important;
+  fill: #ffffff !important;
+}
+
+/* =========================
+   Selection
+========================= */
+
+::selection {
+  background: var(--selection-bg);
+  color: var(--selection-text);
+}
+
+::-moz-selection {
+  background: var(--selection-bg);
+  color: var(--selection-text);
+}
+
+/* =========================
+   Focus states generales
+========================= */
+
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+select:focus,
+summary:focus {
+  outline: 2px solid var(--accent-soft);
+  outline-offset: 2px;
+}
+
+/* =========================
+   Sidebar / TOC
+========================= */
+
+.sidebar,
+.toc,
+#TOC {
+  background-color: transparent;
+  color: var(--text-color);
+}
+
+.sidebar a,
+#TOC a,
+.toc a {
+  color: var(--link-color);
+}
+
+.sidebar a:hover,
+#TOC a:hover,
+.toc a:hover {
+  color: var(--link-hover);
+}
+
+/* =========================
+   Footer
+========================= */
+
+.page-footer {
+  background-color: transparent;
+  color: var(--text-color);
+  border-top: 1px solid var(--border-soft);
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+.page-footer a,
+.page-footer .menu-text,
+.page-footer i,
+.page-footer svg {
+  color: var(--link-color) !important;
+}
+
+.page-footer a:hover,
+.page-footer a:focus {
+  color: var(--link-hover) !important;
+}
+
+/* =========================
+   Code blocks
+========================= */
+
+pre,
+code {
+  color: #f3f3f1;
+}
+
+pre {
+  background-color: var(--code-bg);
+  border: 1px solid var(--code-border);
+  border-radius: 0.375rem;
+}
+
+/* Código inline */
+code:not(pre code) {
+  background-color: rgba(255, 255, 255, 0.08);
+  padding: 0.12rem 0.28rem;
+  border-radius: 0.25rem;
+}
+
+/* =========================
+   Tables
+========================= */
+
+table {
+  color: var(--text-color);
+}
+
+thead,
+tbody,
+tr,
+td,
+th {
+  color: var(--text-color);
+}
+
+table thead th {
+  border-bottom: 1px solid var(--border-soft);
+}
+
+table tbody tr {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+/* =========================
+   Buttons
+========================= */
+
+.btn-primary {
+  background-color: var(--bg-navbar);
+  border-color: var(--bg-navbar);
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  background-color: #5e0c21;
+  border-color: #5e0c21;
+}
+
+/* =========================
+   About page image / cards
+========================= */
+
+img {
+  border-radius: 0.25rem;
+}
+
+/* =========================
+   Optional: slightly softer hr
+========================= */
+
+hr {
+  border: 0;
+  border-top: 1px solid var(--border-soft);
+  opacity: 1;
+}
