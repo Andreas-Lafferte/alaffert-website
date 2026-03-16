@@ -7,7 +7,7 @@ subtitle: |
   [Inequality Observatory of the Diego Portales University](https://observatoriodesigualdades.udp.cl/) \
   University of Chile \
 description-meta: "Andreas Laffert is a Sociologist (University of Chile) and holds an M.A. in Sociology from the Pontifical Catholic University of Chile. He works as a research assistant on the Fondecyt project Market Justice and Deservingness in Social Welfare and on the Chilean partner team of Wealth and Social Cohesion from a Relational Perspective (WESOREL). In addition, he serve as research coordinator at the Inequality Observatory of the Diego Portales University. His research focuses on social stratification, social mobility, wealth, and public attitudes toward the marketization of social services, using quantitative methods that combine observational data, causal inference, and survey experiments."
-image: "files/profile/andreas_laffert.jpeg"
+image: "files/profile/a2.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
