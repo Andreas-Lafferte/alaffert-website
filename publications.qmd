@@ -15,6 +15,10 @@ css: /custom.css
 
 ## Peer-reviewed Articles
 
+Sainz, M., Jiménez-Moya, G., Lobato, R. M., Laffert, A., Vázquez, A., & González, R.
+**Intergroup Contact with People Experiencing Poverty Reduces Hostile but not Benevolent Classism**. Political Psychology. *Accepted for publication*.
+
+
 Castillo, J. C., Canales Sellés, R., Laffert, A., & Urzúa, T. (2026). **Justification trajectories for pension inequality in Chile (2016–2023): the role of social class and beliefs in meritocracy**. [Frontiers in Sociology, 11, 1771856](https://doi.org/10.3389/fsoc.2026.1771856). 
 
 
@@ -27,14 +31,11 @@ Castillo, J. C., Salgado, M., Carrasco, K., & Laffert, A. (2024). **The socializ
 
 **Stability and comparability of meritocratic beliefs in school-age students: A measurement invariance approach across time and cohorts**. Andreas Laffert, Juan Carlos Castillo, René Canales, Tomás Urzúa & Kevin Carrasco. *Submited*.
 
-
 **Preferences for the commodification of pensions in Chile: the role of intergenerational social mobility**. Andreas Laffert. *In progress*.
 
 **The role of wealth on social cohesion in Chile**. Rafael Carranza, Gabriel Otero & Andreas Laffert. *In progress*.
 
-**Sexualised stereotypes of lower-class**. Mario Sainz, Gloria Jiménez-Moya, Roberto M. Lobato, Andreas Laffert, Alexandra Vázquez & Roberto González. *Under Review*.
-
-**Intergroup Contact with People Experiencing Poverty Reduces Hostile but not Benevolent Classism**. Mario Sainz, Gloria Jiménez-Moya, Andreas Laffert & Heather E. Bullock. *Under Review*.
+**Sexualised stereotypes of lower-class**. Mario Sainz, Gloria Jiménez-Moya, Andreas Laffert & Heather E. Bullock. *Under Review*.
 
 ## Research Reports and Data Visualizations
 
