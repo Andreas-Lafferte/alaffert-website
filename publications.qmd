@@ -16,8 +16,7 @@ css: /custom.css
 
 ## Peer-reviewed Articles
 
-Sainz, M., Jiménez-Moya, G., Lobato, R. M., Laffert, A., Vázquez, A., & González, R.
-**Intergroup Contact with People Experiencing Poverty Reduces Hostile but not Benevolent Classism**. Political Psychology. *Accepted for publication*.
+Sainz, M., Jiménez-Moya, G., Lobato, R. M., Laffert, A., Vázquez, A., & González, R. **Intergroup Contact with People Experiencing Poverty Reduces Hostile but not Benevolent Classism**. [Political Psychology, 47(3), e70135](https://doi.org/10.1111/pops.70135).
 
 
 Castillo, J. C., Canales Sellés, R., Laffert, A., & Urzúa, T. (2026). **Justification trajectories for pension inequality in Chile (2016–2023): the role of social class and beliefs in meritocracy**. [Frontiers in Sociology, 11, 1771856](https://doi.org/10.3389/fsoc.2026.1771856). 
