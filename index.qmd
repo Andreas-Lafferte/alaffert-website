@@ -4,10 +4,9 @@ subtitle: |
   Research assistant \
   [Fondecyt project No. 1250518 "Market Justice and Deservingness of Social Welfare"](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/) \
   [Wealth and Social Cohesion from a Relational Perspective (WESOREL)](https://www.isi-munich.de/en/research-project/wealth-and-social-cohesion-from-a-relational-perspective) \
-  [Inequality Observatory of the Diego Portales University](https://observatoriodesigualdades.udp.cl/) \
   University of Chile \
 description-meta: "Andreas Laffert is a Sociologist (University of Chile) and holds an M.A. in Sociology from the Pontifical Catholic University of Chile. He works as a research assistant on the Fondecyt project Market Justice and Deservingness in Social Welfare and on the Chilean partner team of Wealth and Social Cohesion from a Relational Perspective (WESOREL). In addition, he serve as research coordinator at the Inequality Observatory of the Diego Portales University. His research focuses on social stratification, social mobility, wealth, and public attitudes toward the marketization of social services, using quantitative methods that combine observational data, causal inference, and survey experiments."
-image: "files/profile/a2.JPG"
+image: "files/profile/a3.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -33,11 +32,11 @@ about:
 
 ::: {#hero-heading .justify}
 
-Hello, I’m Andreas Laffert Tamayo. I am a sociologist from the University of Chile and hold an M.A. in Sociology from the Pontifical Catholic University of Chile.
+Hello, I'm Andreas Laffert Tamayo. I'm a sociologist from the University of Chile and hold an M.A. in Sociology from the Pontifical Catholic University of Chile.
 
-My research interests focus on social stratification, social mobility, wealth, and attitudes towards the marketization of social welfare. In particular, I am interested in how people come to see the commodification of key domains of welfare and social reproduction—such as pensions—as legitimate or even preferable, and how social mobility, wealth, and institutional arrangements shape these views. Methodologically, I work primarily with quantitative approaches, combining observational data and causal inference strategies with survey experiments.
+My research interests focus on social stratification, social policy, the transformation of the welfare state, and the political economy of inequality. I'm interested in understanding how the commodification of key areas of welfare and social reproduction reshapes inequality, how people come to view it as legitimate, and to what extent these dynamics depend on social stratification and political and economic contexts. Methodologically, I work primarily with quantitative approaches, combining observational data and causal inference strategies with survey experiments.
 
-I am currently a research assistant for Fondecyt project No. 1250518 [“Market Justice and Deservingness of Social Welfare”](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/), and for the Chilean partner team of [Wealth and Social Cohesion from a Relational Perspective (WESOREL)](https://www.isi-munich.de/en/research-project/wealth-and-social-cohesion-from-a-relational-perspective), as well as research coordinator at the [Inequality Observatory of Diego Portales University](https://observatoriodesigualdades.udp.cl/). Previously, I worked as a quantitative analyst at Chile’s Subsecretariat of Labour, research assistant on several Fondecyt-funded projects, Coordinator of the [ Social Cohesion Observatory of the Center for the Study of Conflict and Social Cohesion (COES)](https://ocs-coes.com/), and teaching assistant for undergraduate statistics courses in Sociology at the University of Chile. In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
+In October 2026, I will join the Cluster of Excellence ["The Politics of Inequality"](https://www.exc.uni-konstanz.de/en/inequality/) at the University of Konstanz as a PhD researcher. I am currently a research assistant for Fondecyt project No. 1250518 ["Market Justice and Deservingness of Social Welfare"](https://juancarloscastillo.github.io/jc-quarto/proyectos/posts/fondecyt-jusmer/), and for the Chilean partner team of [Wealth and Social Cohesion from a Relational Perspective (WESOREL)](https://www.isi-munich.de/en/research-project/wealth-and-social-cohesion-from-a-relational-perspective). Previously, I worked as a quantitative analyst at Chile's Subsecretariat of Labour, research assistant on several Fondecyt-funded projects, Coordinator of the [Social Cohesion Observatory of the Center for the Study of Conflict and Social Cohesion (COES)](https://ocs-coes.com/), and teaching assistant for undergraduate statistics courses in Sociology at the University of Chile. In both individual and collaborative research, I value reproducible practices based on Git, R, and other open-source tools.
 
 I was born and raised in [Pedro Aguirre Cerda](https://cerdosacademicos.blogspot.com/2012/04/antecedentes-de-la-comuna.html), a historic district of Santiago, and I currently live in Barrio Yungay (Santiago Centro). Outside academia, I enjoy reading, photography, sports, and drinking mate.
 
